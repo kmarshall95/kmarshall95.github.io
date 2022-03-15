@@ -30,6 +30,7 @@
 ---
 
 
+
 ## My Goals
 | Syntax      | Description |
 | ----------- | ----------- |
@@ -62,8 +63,11 @@
 
 | Contact Us | About Us | Blog | Free Resources | Newsletter |
 
+| ----------- | ----------- | ----------- | ----------- | ----------- |
+
 ## **Focus on Online Presences**
 |**Tool**|Purpose|Workflow|
+| ----------- | ----------- | ----------- |
 |**Twitter**|Share my blog links|Blog|
 |**IG**|Share my photography|Photography|
 |**Fiver**|Look for outbound marketing|Outbound|
@@ -78,7 +82,6 @@
 |**AWS**|CDN/Demo/test server for clients|Hosting|
 |**GoDaddy**|Base Clients sites will live on GD|Hosting|
 |**BBD Hosting and Setup**|YouTube tuts on our philosophy|Courses|
-
 ---
 
 
