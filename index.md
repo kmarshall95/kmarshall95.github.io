@@ -66,8 +66,7 @@
 | Contact Us | About Us | Blog | Free Resources | Newsletter |
 | ----------- | ----------- | ----------- | ----------- | ----------- |
 
-## **Focus on Online Presences**
-
+## Focus on Online Presences
 | **Tool** | Purpose | Workflow |
 | ----------- | ----------- | ----------- |
 |**Twitter**|Share my blog links|Blog|
