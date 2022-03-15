@@ -33,7 +33,7 @@
 
 
 ## My Goals
-| Syntax      | Description |
+|       |  |
 | ----------- | ----------- |
 | Photoshop something creative.  | Get a successful product photoshoot |
 | Make a cool digital art piece. | Setup a creative photoshoot |
@@ -84,6 +84,7 @@
 |**AWS**|CDN/Demo/test server for clients|Hosting|
 |**GoDaddy**|Base Clients sites will live on GD|Hosting|
 |**BBD Hosting and Setup**|YouTube tuts on our philosophy|Courses|
+
 ---
 
 
