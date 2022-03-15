@@ -29,6 +29,7 @@
 
 ---
 
+
 ## My Goals
 | Syntax      | Description |
 | ----------- | ----------- |
@@ -37,11 +38,6 @@
 | Create a game that’s fun.      | Vlog/Blog that follows this document      |
 | Animate SVGs in a interactive way.   | Make a short film        |
 
-| Syntax      | Description |
-| ----------- | ----------- | ----------- |
-| Paragraph   | Text        |
-| Header      | Title       |
-| Paragraph   | Text        |
 
 | Developer| Designer|
 | ----------- | ----------- |
@@ -59,15 +55,14 @@
 - **Analytic and marketing strategy/ Lead generating**
 - **IT help with business technology ( best practice + research**
 
-|Page Name|Links to view more about me|
+|Page Name|Links to view more about me|  |
 |Students |Learn Web Developer|Start Courses|
 |Business Owners|Hire A Developer|Buy packages|
 |Portfolio|View My Work|See Portfolio|
 
-|## Contact Us|
-|About Us|Blog|Free Resources|Newsletter|
+| Contact Us | About Us | Blog | Free Resources | Newsletter |
 
-|**Focus on Online Presences**|
+## **Focus on Online Presences**
 |**Tool**|Purpose|Workflow|
 |**Twitter**|Share my blog links|Blog|
 |**IG**|Share my photography|Photography|
