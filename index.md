@@ -35,10 +35,10 @@
 ## My Goals
 | Syntax      | Description |
 | ----------- | ----------- |
-| Photoshop something creative.  | Get a successful product photoshoot       |
-| Make a cool digital art piece. | Setup a creative photoshoot        |
-| Create a game that’s fun.      | Vlog/Blog that follows this document      |
-| Animate SVGs in a interactive way.   | Make a short film        |
+| Photoshop something creative.  | Get a successful product photoshoot |
+| Make a cool digital art piece. | Setup a creative photoshoot |
+| Create a game that’s fun.      | Vlog/Blog that follows this document |
+| Animate SVGs in a interactive way.   | Make a short film |
 
 
 | Developer| Designer|
@@ -67,7 +67,8 @@
 | ----------- | ----------- | ----------- | ----------- | ----------- |
 
 ## **Focus on Online Presences**
-|**Tool**|Purpose|Workflow|
+
+| **Tool** | Purpose | Workflow |
 | ----------- | ----------- | ----------- |
 |**Twitter**|Share my blog links|Blog|
 |**IG**|Share my photography|Photography|
@@ -83,8 +84,6 @@
 |**AWS**|CDN/Demo/test server for clients|Hosting|
 |**GoDaddy**|Base Clients sites will live on GD|Hosting|
 |**BBD Hosting and Setup**|YouTube tuts on our philosophy|Courses|
-
-
 ---
 
 
