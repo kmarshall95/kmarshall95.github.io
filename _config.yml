@@ -1,11 +1,11 @@
-title: John Doe # your name (or website title) here
+title: Kyle Marshall # your name (or website title) here
 logo: "/images/Asset%201%401.png" # your photo (or logo) here
-description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+description: > Web Developer - Graphic Designer - Unoffical Chef# your text below (remove <br> elements if you don't need line breaks)
+  Check out my cool thoughts.
   <br><br>
-  Second description 
+  Unlimited Hope
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/kmarshallport/">Let`s Connect on LinkedIn</a> 
   
-theme: jekyll-theme-minimal
+theme: BBD-jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
