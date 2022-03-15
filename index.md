@@ -31,6 +31,7 @@
 
 
 
+
 ## My Goals
 | Syntax      | Description |
 | ----------- | ----------- |
@@ -56,13 +57,13 @@
 - **Analytic and marketing strategy/ Lead generating**
 - **IT help with business technology ( best practice + research**
 
-|Page Name|Links to view more about me|  |
+|Page Name|Links to view more about me| Click Here |
+| ----------- | ----------- | ----------- |
 |Students |Learn Web Developer|Start Courses|
 |Business Owners|Hire A Developer|Buy packages|
 |Portfolio|View My Work|See Portfolio|
 
 | Contact Us | About Us | Blog | Free Resources | Newsletter |
-
 | ----------- | ----------- | ----------- | ----------- | ----------- |
 
 ## **Focus on Online Presences**
@@ -82,6 +83,8 @@
 |**AWS**|CDN/Demo/test server for clients|Hosting|
 |**GoDaddy**|Base Clients sites will live on GD|Hosting|
 |**BBD Hosting and Setup**|YouTube tuts on our philosophy|Courses|
+
+
 ---
 
 
