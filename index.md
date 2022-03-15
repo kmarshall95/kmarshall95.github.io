@@ -33,7 +33,7 @@
 
 
 ## My Goals
-|       |  |
+|   Dream Big|  |
 | ----------- | ----------- |
 | Photoshop something creative.  | Get a successful product photoshoot |
 | Make a cool digital art piece. | Setup a creative photoshoot |
@@ -41,7 +41,7 @@
 | Animate SVGs in a interactive way.   | Make a short film |
 
 
-| Developer| Designer|
+| Developer| Designer |
 | ----------- | ----------- |
 | Frontend Code – view | Wireframe mockups |
 | Backend Code – model | UI/UX |
@@ -57,7 +57,7 @@
 - **Analytic and marketing strategy/ Lead generating**
 - **IT help with business technology ( best practice + research**
 
-|Page Name|Links to view more about me| Click Here |
+| Page Name | Links to view more about me | Click Here |
 | ----------- | ----------- | ----------- |
 |Students |Learn Web Developer|Start Courses|
 |Business Owners|Hire A Developer|Buy packages|
