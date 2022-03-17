@@ -68,10 +68,10 @@
 | ----------- | ----------- | ----------- | ----------- | ----------- |
 
 ## Focus on Online Presences
-| **Tool** | Purpose | Workflow |
+| Tool | Purpose | Workflow |
 | ----------- | ----------- | ----------- |
 | **Twitter** | Share my blog links | Blog |
-| **IG**| Share my photography| Photography |
+| **IG** | Share my photography| Photography |
 | **Fiver** | Look for outbound marketing | Outbound |
 | **Freelancer** | Look for outbound marketing | Outbound |
 | **Facebook** | Leads from inbound marketing | Inbound |
