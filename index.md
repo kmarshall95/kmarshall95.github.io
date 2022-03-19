@@ -30,6 +30,7 @@
 ---
 
 ## Focus on Online Presences
+
 | Tool | Purpose | Workflow |
 | ----------- | ----------- | ----------- |
 | **Twitter** | Share my blog links | Blog |
@@ -49,7 +50,8 @@
 
 
 ## My Goals
-|   Dream Big |  Create Today |
+
+| Dream Big | Create Today |
 | ----------- | ----------- |
 | Photoshop something creative.  | Get a successful product photoshoot |
 | Make a cool digital art piece. | Setup a creative photoshoot |
@@ -79,7 +81,9 @@
 |Business Owners|Hire A Developer|Buy packages|
 |Portfolio|View My Work|See Portfolio|
 
+
 ## Website Links
+
 | Contact Us | About Us | Blog | Free Resources | Newsletter |
 | ----------- | ----------- | ----------- | ----------- | ----------- |
 
